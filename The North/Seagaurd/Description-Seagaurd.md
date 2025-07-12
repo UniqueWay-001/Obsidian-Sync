@@ -2,4 +2,4 @@ The land beyond [[The Wall]] or [[Seagaurd]] is the most wealthy of the northern
 
 ![[Seagaurd Map.png]]
 
-There are 4 major settlements in the region- [[Seahold]], 
+There are 4 major settlements in the region- [[Seahold]], [[Jeweler's Peak]] 
