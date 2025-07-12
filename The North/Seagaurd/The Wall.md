@@ -1,0 +1,2 @@
+#Seagaurd
+The wall is one of the greatest achievements in all the North (See [[Description of the Continent]]). The monument stretches from The [[Ocean Waste]] to the [[Sapphire Sea]]. Over 50 feet tall and 10 feet wide the wall has kept Seagaurd out of almost all wars fought in the North.
