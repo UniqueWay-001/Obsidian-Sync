@@ -1,0 +1,1 @@
+The land beyond [[The Wall]] or [[Seagaurd]] is the most wealthy of the northern regions. 
