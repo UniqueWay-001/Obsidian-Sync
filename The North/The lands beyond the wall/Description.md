@@ -1,1 +1,2 @@
-The land beyond [[The Wall]] or [[Seagaurd]] is the most wealthy of the northern regions. 
+The land beyond [[The Wall]] or [[Seagaurd]] is the most wealthy of the northern regions (See [[Description of the Continent|Description of the Continent]]). Seaguard is known for one of the worlds wonders, [[The Wall]]. It is a huge structure of stone reaching a height of 50 meters above the local land. [[The Wall]] is a hub for trade and commerce. Seagaurd has three settlements along the wall- [[The Eastpass]]. [[The Western Gate]], and [[The Center Pass]]. 
+
