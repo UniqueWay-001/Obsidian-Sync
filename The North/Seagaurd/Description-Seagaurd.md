@@ -2,4 +2,6 @@ The land beyond [[The Wall]] or [[Seagaurd]] is the most wealthy of the northern
 
 ![[Seagaurd Map.png]]
 
-There are 4 major settlements in the region- [[Seahold]], [[Jeweler's Peak]] 
+There are 4 major settlements in the region- [[Seahold]], [[Jeweler's Peak]], [[Wallhold]], and [[Gold Town]]. Seagaurd is known for its infertile soil, its rich mines, and hold over the sapphire sea. The northwestern lands of the region are uninhabitable from the typhoons and hurricanes. Seagaurd holds the [[Sapphire Isles]]- a cluster of islands stretching all the way to the lands of the Evernight (see [[Description-The Shadow land of Evernight]]). These isles hold the only entrance by water into the [[Sapphire Sea]]- which holds access to the [[Gulf of Gold]] and the [[Gulf of the Gods]]. The Gulfs provide access to all of the North by ship. Other shipping lanes would have to venture south or through [[Storms Pass]] and the frozen waters of the far north.
+
+Seagaurd is also known for its naval force. [[]]
