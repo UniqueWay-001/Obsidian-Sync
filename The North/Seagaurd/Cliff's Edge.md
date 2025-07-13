@@ -3,7 +3,7 @@
 
 ### 📍 **Overview**
 
-**Cliff’s Edge** is the **sole fortification outside of [[The Wall]]**, marking the **southeastern boundary** of Seagaurd. Perched on a sheer ridge that drops into the highland mist, the fort commands a **bird’s-eye view of the [[The High Road]]**, making it one of the most strategically placed outposts in the region.
+**Cliff’s Edge** is the **sole fortification outside of [[The Wall]]**, marking the **southeastern boundary** of Seagaurd. Perched on a sheer ridge that drops into the highland mist, the fort commands a **bird’s-eye view of the [[High Road]]**, making it one of the most strategically placed outposts in the region.
 
 ---
 
