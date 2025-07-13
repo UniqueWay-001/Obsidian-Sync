@@ -12,7 +12,7 @@ The land **north of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest a
     - **Rich mineral veins**
         
     - **Storm-wracked coasts to the northwest**
-        
+    
 - **Trade Arteries:**
     
     - [[The Wall]] serves as a **trade hub**, with three major settlements at its gates:
