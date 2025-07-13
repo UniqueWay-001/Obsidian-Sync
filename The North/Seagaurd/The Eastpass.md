@@ -1,3 +1,5 @@
 #Seagaurd 
 # The Eastpass:
-Of the 3 gates in [[The Wall]], the largest one is [[The Eastpass]]. 
+Of the 3 gates in [[The Wall]], the largest one is [[The Eastpass]].  With 3 gats, (2 of wood and 1 of steel) it is considered impregnable. The colossal gates are open in times of peace and let through more merchants and commerce than any other gate. The Eastpass is a result of inns and taverns popping up right outside the gate and have thus lead to a small town of sorts to be formed. The town has houses, brothels, taverns, and and stables. 
+
+There have been times where the gates have been under siege, and times where one side of the town is completely cut of from the other. When the gates close, the only way to open them is from the inside. A measly 30 people reside on the inner side of the gate while more than 200 reside on the outer side- buying wares from travelling merchants, and making coin from weary travelers.
