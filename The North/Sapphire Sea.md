@@ -1,4 +1,4 @@
-#Seagaurd 
+
 # 🌊 Seagaurd – The Sapphire Sea
 
 ### 📍 Overview
