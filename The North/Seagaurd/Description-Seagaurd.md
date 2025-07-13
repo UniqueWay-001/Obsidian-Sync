@@ -102,7 +102,7 @@ The land **north of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest a
 
 ### 🛡️ Borders & Defenses
 
-- **Northern Boundary**: [[The Wall]]
+- **Southern Boundary**: [[The Wall]]
     
 - **Southern Reach**: Stretches **50 leagues south** until the **[[High Road]]**
     
@@ -117,7 +117,7 @@ The land **north of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest a
 
 ### ⚓ Military Strength
 
-- **The Wall Keep** defends the northern frontier
+- **The Wall Keep** defends the southern frontier
     
 - **Seahold Navy** ensures **sea dominance** from the Sapphire Sea to the distant coasts
     
@@ -126,7 +126,3 @@ The land **north of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest a
 
 ---
 
-### 🧭 Strategic Summary
-
-Seagaurd is not only **rich in coin** but rich in **control**—over land and sea  
-With its mines, gates, fleets, and isles, Seagaurd is the **shield and sword of the North**, and many believe **whoever controls Seagaurd controls the fate of the continent**.

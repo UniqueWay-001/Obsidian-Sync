@@ -38,6 +38,11 @@ ___
 	
 - Holds the region against the [[Mountain Clans]]
 
+#### [[The Mountain Watch]]
+- Holds the **[[Northern Pass]]**
+	
+- Can rally troops southwards
+
 ---
 
 ### 🏴‍☠️Territories & Waters
@@ -50,3 +55,12 @@ ___
 - The might mountains raised higher than all else
 	
 - A nesting ground for **dragons**
+
+---
+
+### 🛡️Borders & Defenses
+- **Southern Boundary: The Northern Mountains**
+	
+- **[[Mountain Watch]]** to defend in the northwest
+	
+- **Mightiest Army**
