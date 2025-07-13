@@ -13,3 +13,20 @@
 - **Main Junctions**:
 		
 	- [[The Red City]]
+		
+	- [[The Wall]]
+		
+	- The [[Mountain Pass]]
+		
+	- The [[Twin Cities]]
+		
+	- The [[Isle of Fire]]
+		
+	- The [[Isle of Man]]
+- **Major waters**
+		
+	- Links the [[Gulf of the Gods]]
+		
+	- [[Gulf of Gold]]
+
+---
