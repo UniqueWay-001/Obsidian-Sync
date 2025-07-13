@@ -38,7 +38,7 @@ ___
 	
 - Holds the region against the [[Mountain Clans]]
 
-#### [[The Mountain Watch]]
+#### [[Mountain Watch]]
 - Holds the **[[Northern Pass]]**
 	
 - Can rally troops southwards
@@ -46,12 +46,12 @@ ___
 ---
 
 ### 🏴‍☠️Territories & Waters
-#### **[[The Gulf of the Gods]]
+#### **[[Gulf of the Gods]]
 - One of the most influential economic hubs
 	
 - A large part of the [[Sapphire Sea]]
 
-#### **[[The Dragonpeaks]]**
+#### **[[Dragonpeaks]]**
 - The might mountains raised higher than all else
 	
 - A nesting ground for **dragons**
