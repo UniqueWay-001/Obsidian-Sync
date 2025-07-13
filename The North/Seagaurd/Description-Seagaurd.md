@@ -3,12 +3,12 @@
 
 ### 📍 Overview
 
-The land **south of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest and most strategic region** in the North (see [[Description of the Continent|Description of the Continent]]). Anchored by one of the world’s great wonders—**[[The Wall]]**—Seagaurd thrives as a **center of commerce, defense, and naval power**.
+The land **north of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest and most strategic region** in the North (see [[Description of the Continent|Description of the Continent]]). Anchored by one of the world’s great wonders—**[[The Wall]]**—Seagaurd thrives as a **center of commerce, defense, and naval power**.
 
 - **Dominant Terrain**:
     
     - **Infertile soil**
-        
+	    
     - **Rich mineral veins**
         
     - **Storm-wracked coasts to the northwest**
