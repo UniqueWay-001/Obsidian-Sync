@@ -2,7 +2,7 @@
 # ⛰️ The Valley - Realm in the Mountain's Shadow
 
 ### 📍Overview
-The land north of the [[Dragonpeaks]], or **The Valley** (See [[Description-The Valley]]) is the most populous an the most consequential region in the North. With the Norths most important trade artery - [[The High Road]] -flowing through it, The Valley is a hub for merchants and travelers. It boats the [[Dragonpeaks]] , one of the most astounding part of the North. It also has the capitol- [[The Red City]]. It houses [[The King]] and [[The Royal line]]
+The land north of the [[Dragonpeaks]], or **The Valley** (See [[Description-The Valley]]) is the most populous an the most consequential region in the North. With the Norths most important trade artery - The [[High Road]] -flowing through it, The Valley is a hub for merchants and travelers. It boats the [[Dragonpeaks]] , one of the most astounding part of the North. It also has the capitol- [[The Red City]]. It houses [[The King]] and [[The Royal line]]
 
 - **Dominant Terrain:**
 	
@@ -13,7 +13,7 @@ The land north of the [[Dragonpeaks]], or **The Valley** (See [[Description-The 
 	- **Dense Jungle in the south**
 	
 - **Trade Arteries**:
-	- [[The High Road]] serves as a major trade choke with forts guarding it
+	- [[High Road]] serves as a major trade choke with forts guarding it
 		
 	- [[The Red City]] and the capitol region serve as a trade hub and major settlement
 ---
@@ -32,7 +32,7 @@ ___
 	
 - Home to the king, the Royal Family, and the **Royal Army**
 #### [[The High Fort]]
-- The watcher of [[The High Road]]
+- The watcher of The [[High Road]]
 	
 - Has over a **2000 men force**
 	

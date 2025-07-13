@@ -34,7 +34,7 @@
 
 - **Sentinel of the South**:
     
-    - Its vantage point covers miles of **[[The High Road]]**, the main land route leading into Seagaurd from the southern lowlands
+    - Its vantage point covers miles of **The High Road**, the main land route leading into Seagaurd from the southern lowlands
         
     - Serves as a **customs checkpoint**, **defensive line**, and **early warning station** against southern invasion or refugee influx
         
