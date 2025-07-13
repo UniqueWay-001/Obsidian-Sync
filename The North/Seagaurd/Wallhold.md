@@ -43,7 +43,7 @@
     
     - **Infantry legions**, **riders**, **siege weapon divisions**, and **battle mages**
         
-    - Rapid deployment networks to all **[[Gate Settlements]]** along **[[The Wall]]**
+    - Rapid deployment networks to all **Gate Settlements** along **[[The Wall]]**
         
 - **Diamond Castle**:
     

@@ -22,7 +22,7 @@
         
     - Fortified outposts and signal towers dot the major islands
         
-    - However, **northern isles near [[The Shadow]]** have fallen into chaos, ruled by **wild barbarian clans**, pirates, and rumored dark cults
+    - However, **northern isles near The Shadow Lands** have fallen into chaos, ruled by **wild barbarian clans**, pirates, and rumored dark cults
         
 - **Strategic Waters**:
     
