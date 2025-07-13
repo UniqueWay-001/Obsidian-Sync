@@ -121,7 +121,7 @@ The land **south of [[The Wall]]**, known as **Seagaurd**, is the **wealthiest a
     
 - **Seahold Navy** ensures **sea dominance** from the Sapphire Sea to the distant coasts
     
-- Forts like [[Cliff’s Edge]] and bastions along [[The Wall]] provide an **iron perimeter**
+- Forts like Cliff’s Edge and bastions along [[The Wall]] provide an **iron perimeter**
     
 
 ---

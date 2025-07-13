@@ -3,7 +3,7 @@
 
 ### 📍 Overview
 
-**Seahold** is the **naval crown** of Seagaurd and arguably the **most powerful military hold** in the entire North. Situated at the mouth of the **[[Strait of Sapphire]]**, it commands total control over passage into the **[[Sapphire Sea]]**—and by extension, all northern sea trade. With **over 10,000 foot soldiers** and a fleet of **1,000+ warships**, Seahold is **the iron fist of the sea**, second only—perhaps—to **[[Worlds End]]**.
+**Seahold** is the **naval crown** of Seagaurd and arguably the **most powerful military hold** in the entire North. Situated at the mouth of the **Strait of Sapphire**, it commands total control over passage into the **[[Sapphire Sea]]**—and by extension, all northern sea trade. With **over 10,000 foot soldiers** and a fleet of **1,000+ warships**, Seahold is **the iron fist of the sea**, second only—perhaps—to **[[Worlds End]]**.
 
 ---
 
