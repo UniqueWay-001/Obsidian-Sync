@@ -15,4 +15,7 @@
 - [[High Road]]
 - [[Glistering Road]]
 - [[Mountain Pass]]
-- 
+
+### For other continents:
+- The East (See [[Description of the Continent-The East]])
+- The South (See [[Description of the Continent - The South]])
