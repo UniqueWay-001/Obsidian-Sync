@@ -4,7 +4,7 @@
 
 ### 📍 Overview
 
-**Jeweler’s Peak** is a **booming mining town** and the **only known source of diamonds in the world**. Its meteoric rise from barren rock to economic powerhouse happened in mere **months**, and it now sits at the **core of Seagaurd’s economy**. From the gleam of a single gemstone, entire trade routes have formed—stretching from the peaks of the North to the empires of the **[[East]]** (see [[Description of the Continent-The East]]).
+**Jeweler’s Peak** is a **booming mining town** and the **only known source of diamonds in the world**. Its meteoric rise from barren rock to economic powerhouse happened in mere **months**, and it now sits at the **core of Seagaurd’s economy**. From the gleam of a single gemstone, entire trade routes have formed—stretching from the peaks of the North to the empires of the **East** (see [[Description of the Continent-The East]]).
 
 ---
 
@@ -45,7 +45,7 @@
             
 - **Export Methods**:
     
-    - Shipped via the **[[Gates]]** or loaded onto caravans heading to the **[[Sapphire Isles]]** for overseas transport
+    - Shipped via the **Gates** or loaded onto ships heading past the **strait of sapphire** for overseas transport
         
     - Luxury goods, especially diamond-crafted wares, are **taxed heavily**, bringing substantial revenue to Seagaurd
         
