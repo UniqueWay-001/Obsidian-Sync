@@ -1,2 +1,0 @@
-#Seagaurd 
-The center pass is the most consequential of the gates. The gate direcly leads to the [[Glistering road]] which  links [[Wallhold]], [[Gold Town]], and [[Jeweler’s Peak]]- All commerce based cities. The gate is held by over 1000 men and has the most su

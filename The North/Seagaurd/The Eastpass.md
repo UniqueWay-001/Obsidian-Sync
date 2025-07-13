@@ -30,7 +30,7 @@ Of the three gates in **[[The Wall]]**, **The Eastpass** is the largest and most
     
 - This has led to the formation of a **small but thriving town**:
     
-    - **~200 residents** live on the **outer side**, making coin from passing travelers.
+    - **~200 residents** live on the **inner side**, making coin from passing travelers.
         
     - The settlement includes:
         
