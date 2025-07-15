@@ -1,4 +1,4 @@
-#Seagaurd 
+#North/Seagaurd 
 # 🌊 Seagaurd – Realm Beyond the Wall
 
 ### 📍 Overview
