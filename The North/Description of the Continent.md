@@ -11,6 +11,7 @@
 - The Capitol (see [[The Red City]])
 - Seagaurd/The Lands beyond the wall (see [[Description-Seagaurd]])
 - The Mountain Vale (See [[Description-The Valley]])
+- The Icelands (See [[Description- The Icelands]])
 
 ### Major Trade routes:
 - [[High Road]]
