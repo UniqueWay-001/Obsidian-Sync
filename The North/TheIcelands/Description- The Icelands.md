@@ -59,9 +59,33 @@ The land south to [[The Frozen Ice]] is known as The Icelands. It features disti
 - The end of the [[Green Bay]].
 	
 - Frequented by dragons
+	
+#### [[The Golden Cities]]
+- Guard, tax, and maintain the [[Gulf of Gold]] 
 
 ---
 
 ### Castles/Keeps
 
-#### 
+#### [[Fortress of Solitude]]
+- Carved into the [[The Peak of Solitude]],
+	
+- considered **Impregnable**.
+	
+#### [[River-Fort of Man]]
+- **Over the River Red**
+	
+- **Governed by [[City of Man]]**
+	
+#### [[River-Fort of Fire]]
+- Over the [[River Red]]
+	
+- Governed by [[City of Fire]].
+	
+#### [[Worlds End]]
+- **The Mightiest Naval Power**
+	
+- The westernmost manned point in the North
+	
+#### [[The Golden Keep]]
+- At the end of the [[Gulf of Gold]]
