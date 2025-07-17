@@ -36,4 +36,32 @@ The land south to [[The Frozen Ice]] is known as The Icelands. It features disti
 #### The [[Twin Cities]]
 - The **Trade Capitol** of the World
 	
-- M
+- Most trade highways flowing through
+	
+#### The [[City of Fire]]
+- The end of the [[High Road]].
+	
+- Sits next to the [[Isle of Fire]]
+	
+#### The [[City of Man]]
+- The end of the [[Peak road]]
+	
+- Sits next to the [[Isle of Man]]
+	
+- Next to [[The Peak of Solitude]]
+	
+#### The [[City of the Forgotten]]
+- The end of the [[Encircling Mountains]]
+	
+- Sits next to the [[Isle of the Forgotten]]
+	
+####  [[The Green City]]
+- The end of the [[Green Bay]].
+	
+- Frequented by dragons
+
+---
+
+### Castles/Keeps
+
+#### 
