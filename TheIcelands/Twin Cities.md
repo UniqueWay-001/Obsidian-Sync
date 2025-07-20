@@ -14,4 +14,22 @@ The **Twin Cities** are the reagent of **The Icelands**. They are the Heart of a
 
 ### Military
 - The lands in the Icelands answer to **The Twin Cities**
-	- 
+	- [[City of Man]]
+		
+	- [[City of Fire]]
+		
+	- [[Fortress of Solitude]]
+		
+	- [[River-Fort of Man]]
+		
+	- [[River-Fort of Fire]]
+		
+	- [[Worlds End]]
+		
+	- [[City of the Forgotten]]
+		
+	- [[The Golden Cities]]
+---
+
+### Geography
+Built on the crossing of 5 major trade routes, It is *The* city of trade.
