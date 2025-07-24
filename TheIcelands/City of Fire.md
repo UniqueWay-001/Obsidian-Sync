@@ -13,4 +13,4 @@ The [[Dragons]] are a huge threat to the city, hence the politics are hugely dep
 the regent is the hold of the [[Twin Cities]].
 
 ### Geological area
-It lies south of [[The Frozen Ice]]
+It lies south of [[The Frozen Ice]] and is the westernmost settlement.
