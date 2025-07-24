@@ -13,4 +13,4 @@ The [[Dragons]] are a huge threat to the city, hence the politics are hugely dep
 the regent is the hold of the [[Twin Cities]].
 
 ### Geological area
-It lies south of [[The Frozen Ice]] and is the westernmost settlement.
+It lies south of [[The Frozen Ice]] and is the westernmost settlement. It is the merging point of the 3 northern rivers- [[The frozen River]], [[The River of Bronze]]. [[Smugglers Pass]], and is where they meet to become the [[River of Wine]].
